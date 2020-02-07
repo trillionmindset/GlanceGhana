@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Glance Ghana</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="hotels">Hotels</string>
+    <string name="tips">Tips</string>
+    <string name="description">Description is here</string>
+
+    <string name="intentshort" translatable="false" />
+    <string name="intentlong" translatable="false" />
+    <string name="intentsimage" translatable="false" />
+
+    <string name="akwaaba" translatable="false">AKWAABA</string>
+    <string name="akwaabadetails" translatable="false">Akwaaba
+Akwaaba "_is a term that will greet you everywhere you
+go in Ghana. Ghana is known for the hospitality and friendliness of its people.
+Ghana offers a fascinating cultural experience that link the pass to present in a colorful way.
+The centuries - old monuments along shores attain to Europe's, trading links with Africa and the Trans-Atlantic slave Trade.
+Nature lovers will be amazed at richness of the wildlife, which include elephants, monkeys, birds, butterflies and breathtaking views of varied landscape and unspoilt sandy beaches.
+Akwaaba to the golden experience. Explore Ghana, immerse yourself in our traditions and lifestyles.
+Have fun.</string>
+
+
+    <string name="Welcome"/>
+    <string name="Hotels" />
+    <string name="Home" />
+    <string name="Tips" />
+    <string name="imagedetails" />
+    <string name="aurora" />
+
+
+</resources>
