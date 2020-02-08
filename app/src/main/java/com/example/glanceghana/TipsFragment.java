@@ -27,10 +27,7 @@ public class TipsFragment extends Fragment {
         ArrayList<Items> items = new ArrayList<>();
         items.add(new Items(R.drawable.map, "Ghana","Ghana officially the Republic of Ghana, is a country located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa. Spanning a land mass of 238,535 km2 (92,099 sq mi), Ghana is bordered by the Ivory Coast in the west, Burkina Faso in the north, Togo in the east and the Gulf of Guinea and Atlantic Ocean in the south.\n" +
                 "\n"));
-        items.add(new Items(R.drawable.map, "Ghana","Ghana officially the Republic of Ghana, is a country located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa. Spanning a land mass of 238,535 km2 (92,099 sq mi), Ghana is bordered by the Ivory Coast in the west, Burkina Faso in the north, Togo in the east and the Gulf of Guinea and Atlantic Ocean in the south.\n" +
-                "\n"));
-        items.add(new Items(R.drawable.map, "Ghana","Ghana officially the Republic of Ghana, is a country located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa. Spanning a land mass of 238,535 km2 (92,099 sq mi), Ghana is bordered by the Ivory Coast in the west, Burkina Faso in the north, Togo in the east and the Gulf of Guinea and Atlantic Ocean in the south.\n" +
-                "\n"));
+
 
 
         // gets the listView and populates it with the items array adapter we created earlier

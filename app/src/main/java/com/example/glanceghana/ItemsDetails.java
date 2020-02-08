@@ -24,7 +24,7 @@ public class ItemsDetails extends AppCompatActivity {
         TextView textDetailsShort = findViewById(R.id.textDetailsShort);
         TextView textDetailsLong = findViewById(R.id.textDetailsLong);
 
-         Intent intent = getIntent();
+        Intent intent = getIntent();
         imageDetails.setImageResource(intent.getIntExtra("imageDescription", R.drawable.cover));
         textDetailsShort.setText(intent.getStringExtra("shortDescription"));
         textDetailsLong.setText(intent.getStringExtra("longDescription"));

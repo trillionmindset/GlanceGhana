@@ -10,9 +10,9 @@
     <string name="tips">Tips</string>
     <string name="description">Description is here</string>
 
-    <string name="intentshort" translatable="false" />
-    <string name="intentlong" translatable="false" />
-    <string name="intentsimage" translatable="false" />
+    <string name="intentshort" translatable="false">shortDescription</string>
+    <string name="intentlong" translatable="false" >longDescription</string>
+    <string name="intentsimage" translatable="false">imageDescription</string>
 
     <string name="akwaaba" translatable="false">AKWAABA</string>
     <string name="akwaabadetails" translatable="false">Akwaaba
